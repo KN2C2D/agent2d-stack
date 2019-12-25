@@ -15,7 +15,7 @@ This project is based on **[HELIOS Base](https://osdn.net/projects/rctools/relea
 2. Clone this repository into your machine.
 
    ```bash
-    git clone https://github.com/KN2C2D/Agent2DStack.git && cd Agent2DStack
+    git clone git@github.com:KN2C2D/agent2d-stack.git && cd agent2d-stack
    ```
 
 3. Then build agent & lib with included script:
