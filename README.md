@@ -4,7 +4,7 @@
 
 This project is based on **[HELIOS Base](https://osdn.net/projects/rctools/releases/)** (Agent2D 3.1.1 & Librcsc 4.1.0) & Licensed under _GNU GPL 3_. 
 
-## Build for first time
+## First time build
 
 1. Install dependencies.
 
@@ -12,7 +12,7 @@ This project is based on **[HELIOS Base](https://osdn.net/projects/rctools/relea
    sudo apt-get update && sudo apt-get install -y g++ build-essential libboost-all-dev qt4-dev-tools libaudio-dev libgtk-3-dev libxt-dev bison flex
    ```
 
-2. Clone this repository into your machine.
+2. Clone this repository.
 
    ```bash
     git clone git@github.com:KN2C2D/agent2d-stack.git && cd agent2d-stack
@@ -28,19 +28,17 @@ This project is based on **[HELIOS Base](https://osdn.net/projects/rctools/relea
 
 ## Build after changes
 
-After changing any parts of code you can easily build your code with `makeAll.sh` & `makeAgent.sh`
+After changing any part of the code you can easily build it with `makeAll.sh` & `makeAgent.sh`
 
 ## Run A Game
 
-After build the project, you can run this team with these instructions:
+After building the project, you can run the team with these instructions:
 
 1. Open a terminal and run [rcssserver](https://github.com/rcsoccersim/rcssserver)  
 
    ```bash
    rcssserver
    ```
-
-   
 
 2. Open new terminal and got to project folder then run your team
 
@@ -55,4 +53,4 @@ After build the project, you can run this team with these instructions:
    rcssmonitor
    ```
 
-> For further instructions in English you can use [this link](https://github.com/ibots/tutorial) or [مستندات شبیه‌ساز دوبعدی فوتبال](https://rcss.ir/2D/FA).
+> For further instructions you can use [this link](https://github.com/ibots/tutorial) (English) or [مستندات شبیه‌ساز دوبعدی فوتبال](https://rcss.ir/2D/FA)(Farsi).
