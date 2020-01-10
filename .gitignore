@@ -32,6 +32,9 @@
 *.out
 *.app
 
+# M4 Files 
+*.m4 
+
 cmake-build-debug
 
 .idea/
@@ -125,9 +128,6 @@ cmake-build-debug
 */*/*/*/Makefile
 */*/*/*/.libs
 Lib/Doxyfile
-
-Lib/m4/*
-
 
 Agent/src/start.sh
 Agent/src/train.sh
