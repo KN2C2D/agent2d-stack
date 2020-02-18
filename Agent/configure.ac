@@ -9,7 +9,7 @@ AC_CONFIG_AUX_DIR([config])
 AC_CONFIG_MACRO_DIR([m4])
 
 # --------------------------------------------------------------
-AM_INIT_AUTOMAKE([gnu check-news])
+AM_INIT_AUTOMAKE([gnu subdir-objects check-news])
 
 AC_LANG([C++])
 
