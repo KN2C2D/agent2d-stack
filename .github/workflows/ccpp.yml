@@ -15,3 +15,8 @@ jobs:
       run: ./makeFirstTime.sh
     - name: Binary
       run: ./makeBin.sh
+    - name: Archive Binary
+      uses: actions/upload-artifact@v1
+      with:
+        name: Binary
+        path: Bin
