@@ -43,7 +43,7 @@ After building the project, you can run the team with these instructions:
 2. Open new terminal and got to project folder then run your team
 
    ```bash
-   cd Agent2DStack/Agent/src
+   cd agent2d-stack/Agent/src
    ./start.sh -t YOUR_TEAM_NAME
    ```
 

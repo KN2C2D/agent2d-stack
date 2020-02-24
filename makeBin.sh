@@ -8,3 +8,5 @@ cp Agent/src/player.conf Bin
 cp Agent/src/coach.conf Bin
 cp -r Agent/src/formations-dt Bin
 cp Files/* Bin
+tar czf Binary.tar.gz Bin
+mv Binary.tar.gz Bin
