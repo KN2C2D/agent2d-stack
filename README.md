@@ -2,6 +2,8 @@
 
 # **Agent2DStack**   
 
+![Agent2D Buid + Binary](https://github.com/KN2C2D/agent2d-stack/workflows/Agent2D%20Buid%20+%20Binary/badge.svg?event=push)
+
 This project is based on **[HELIOS Base](https://osdn.net/projects/rctools/releases/)** (Agent2D 3.1.1 & Librcsc 4.1.0) & Licensed under _GNU GPL 3_. 
 
 ## First time build
